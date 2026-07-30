@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #f1faee;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #1d3557;
+  padding: 0.9rem 2rem;
+}
+.navbar .brand { color: #fff; font-size: 1.3rem; font-weight: 700; text-decoration: none; }
+.navbar ul { list-style: none; display: flex; gap: 1.2rem; margin: 0; padding: 0; }
+.navbar a { color: #f1faee; text-decoration: none; }
+.container { max-width: 1000px; margin: 0 auto; padding: 1.5rem 2rem; }
+table { border-collapse: collapse; }
+th, td { padding: 0.5rem 0.8rem; border-bottom: 1px solid #ddd; text-align: left; }

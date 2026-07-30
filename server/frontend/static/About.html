@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Us | Best Cars Dealership</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+  <nav class="navbar">
+    <a class="brand" href="/">Best Cars Dealership</a>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about/" class="active">About Us</a></li>
+      <li><a href="/contact/">Contact Us</a></li>
+    </ul>
+  </nav>
+
+  <header class="page-header">
+    <h1>About Us</h1>
+    <p>Meet the team behind Best Cars Dealership</p>
+  </header>
+
+  <main class="container">
+    <p>
+      Best Cars Dealership is a full-stack car dealership review platform built
+      as a capstone project. Our small team designed and developed every layer
+      of the application, from the Django REST backend to the React frontend,
+      the Node/MongoDB dealer microservice, and the Flask sentiment analysis
+      service that powers our review insights.
+    </p>
+
+    <div class="team-grid">
+      <div class="team-card">
+        <img src="https://randomuser.me/api/portraits/women/68.jpg" alt="Sarah Malik" />
+        <h3>Sarah Malik</h3>
+        <div class="role">Lead Backend Developer</div>
+        <p class="bio">
+          Designed the Django REST API, authentication system, and the
+          dealer/review data models. Enjoys optimizing database queries and
+          writing clean API contracts.
+        </p>
+        <a class="email" href="mailto:sarah.malik@bestcarsdealership.com">sarah.malik@bestcarsdealership.com</a>
+      </div>
+
+      <div class="team-card">
+        <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Daniel Reyes" />
+        <h3>Daniel Reyes</h3>
+        <div class="role">Frontend Developer</div>
+        <p class="bio">
+          Built the React components for registration, login, dealer listing,
+          and review submission, with a focus on clean, accessible UI.
+        </p>
+        <a class="email" href="mailto:daniel.reyes@bestcarsdealership.com">daniel.reyes@bestcarsdealership.com</a>
+      </div>
+
+      <div class="team-card">
+        <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Priya Nair" />
+        <h3>Priya Nair</h3>
+        <div class="role">DevOps & CI/CD Engineer</div>
+        <p class="bio">
+          Set up the GitHub Actions pipeline, containerization, and cloud
+          deployment, keeping builds fast and releases reliable.
+        </p>
+        <a class="email" href="mailto:priya.nair@bestcarsdealership.com">priya.nair@bestcarsdealership.com</a>
+      </div>
+
+      <div class="team-card">
+        <img src="https://randomuser.me/api/portraits/men/85.jpg" alt="Marcus Chen" />
+        <h3>Marcus Chen</h3>
+        <div class="role">Data & Sentiment Analysis</div>
+        <p class="bio">
+          Built the Flask microservice that scores customer reviews as
+          positive, neutral, or negative to help dealers understand feedback.
+        </p>
+        <a class="email" href="mailto:marcus.chen@bestcarsdealership.com">marcus.chen@bestcarsdealership.com</a>
+      </div>
+    </div>
+  </main>
+
+</body>
+</html>

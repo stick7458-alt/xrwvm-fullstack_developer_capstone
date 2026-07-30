@@ -1,0 +1,8 @@
+{
+  "reviews": [
+    { "id": 1, "name": "Alex Turner", "dealership": 1, "review": "Fantastic services, the staff was very helpful and the whole process was quick.", "purchase": true, "purchase_date": "2025-03-14", "car_make": "Toyota", "car_model": "Camry", "car_year": 2024 },
+    { "id": 2, "name": "Jamie Lee", "dealership": 1, "review": "Good experience overall, though the paperwork took a while.", "purchase": true, "purchase_date": "2025-05-02", "car_make": "Honda", "car_model": "Civic", "car_year": 2023 },
+    { "id": 3, "name": "Morgan Diaz", "dealership": 2, "review": "Not satisfied with the follow-up support after the purchase.", "purchase": true, "purchase_date": "2025-01-20", "car_make": "Ford", "car_model": "Focus", "car_year": 2022 },
+    { "id": 4, "name": "Taylor Kim", "dealership": 3, "review": "Excellent selection of cars and a friendly, knowledgeable sales team.", "purchase": true, "purchase_date": "2025-06-11", "car_make": "Tesla", "car_model": "Model 3", "car_year": 2025 }
+  ]
+}

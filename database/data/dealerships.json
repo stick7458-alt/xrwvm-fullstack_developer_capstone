@@ -1,0 +1,10 @@
+{
+  "dealerships": [
+    { "id": 1, "full_name": "Wichita Prime Motors", "city": "Wichita", "state": "Kansas", "zip": "67202", "address": "245 Main Street", "lat": 37.6872, "long": -97.3301, "short_name": "Wichita Prime", "st": "KS" },
+    { "id": 2, "full_name": "Topeka Auto Gallery", "city": "Topeka", "state": "Kansas", "zip": "66603", "address": "18 Capitol Ave", "lat": 39.0489, "long": -95.6772, "short_name": "Topeka Auto", "st": "KS" },
+    { "id": 3, "full_name": "Golden Gate Motors", "city": "San Francisco", "state": "California", "zip": "94103", "address": "500 Market St", "lat": 37.7749, "long": -122.4194, "short_name": "Golden Gate", "st": "CA" },
+    { "id": 4, "full_name": "Lone Star Auto", "city": "Austin", "state": "Texas", "zip": "73301", "address": "900 Congress Ave", "lat": 30.2672, "long": -97.7431, "short_name": "Lone Star", "st": "TX" },
+    { "id": 5, "full_name": "Empire State Cars", "city": "New York", "state": "New York", "zip": "10001", "address": "350 5th Ave", "lat": 40.7484, "long": -73.9857, "short_name": "Empire State", "st": "NY" },
+    { "id": 6, "full_name": "Sunshine Auto Group", "city": "Miami", "state": "Florida", "zip": "33101", "address": "77 Biscayne Blvd", "lat": 25.7617, "long": -80.1918, "short_name": "Sunshine Auto", "st": "FL" }
+  ]
+}
