@@ -1,7 +1,6 @@
-# Best Cars Dealership — Full Stack Django + React Capstone
+#Fullstack_developer_capstone  — Full Stack Django + React Capstone
 
-**Project Name:** Best Cars Dealership Application
-
+**Project Name:** Fullstack_developer_capstone
 A full-stack car dealership review platform built with:
 - **Backend:** Django (REST API, auth, admin)
 - **Frontend:** React (embedded as static build inside Django, `server/frontend`)
